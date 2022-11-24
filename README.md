@@ -62,3 +62,49 @@
 
 ### Salida: 
 * Pasado los 10 minutos la pizza ya estaría lista
+---------------------------------------------------------------------------------------------------------------
+
+## Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa. :ice_cube: 	:fire:
+* **Menu**
+1. Convertir de Grados celcius a fahrenheit
+2. Convertir de Grados fahrenheit a celcius
+
+* **OPCION #01:**
+1. Ingrese los grados celcius a convertir a grados fahrenheit
+2. Guardar la cantidad en una variable "n"
+3. Se hace la operación (n*9/5+32)
+4. Se imprime el resultado
+
+* **OPCION #02:**
+1. Ingrese los grados fahrenheit a convertir a grados celcius
+2. Guardar la cantidad en una variable "n"
+3. Se hace la operación (n-32*5/9)
+4. Se imprime el resultado
+
+---------------------------------------------------------------------------------------------------------------
+
+## Design an algorithm to calculate the volume of a pyramid, a cube and a sphere. :triangular_ruler:
+* **Menu**
+1. Volumen de una esfera
+2. volumen de una piramide
+3. Volumen de un cubo
+
+* **OPCION #01:**
+1. Ingrese el radio de la esfera
+2. Guardar el radio de la esfera en una variable "r"
+3. Realizar la operacion  ((4/3)*pir^3)
+4. Imprimir el resultado
+
+* **OPCION #02:**
+1. Ingrese el lado de la piramide
+2. Guarde el lado de la piramide en una variable "l"
+3. Ingrese la altura de la piramide
+4. Guarde la altura de la piramide en una variable "h"
+5. Realizar la operacion (1/3*l^2*h)
+6. Imprimir el resultado
+
+* **OPCION #03:**
+1. Ingrese el lado del cubo
+2. Guardar el lado del cubo en una variable "l"
+3. Realizar la operacion (l^3)
+4. Imprimir el resultado
