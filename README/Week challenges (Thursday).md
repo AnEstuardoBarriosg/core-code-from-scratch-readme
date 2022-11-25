@@ -37,4 +37,4 @@ Partimos de que todos los mensajes son mentiras:
 * El tesoro de en medio nos indica que todos los tesoros poseen "un tesoro dentro", pero, sabiendo que todo es mentira, se descarta el tesoro de en medio.
 * El tesoro de la derecha nos indica que solo un tesoro posee realmente el tesoro, pero,  sabiendo que todo es mentira, se descarta el tesoro de la derecha
 
-Realmente el unico tesoro del que podemos confiar, son los tesoros de los extremos, ya que no especifican si tienen o no tienen el tesoro dentro de ellos a diferencia de lo que indica el tesoro de en medio. Por lo que es una posibilidad del 50/50, o el tesoro está en el lado izquierdo o derecho... o puede estar en ambos tesoros.
+Realmente los unicos tesoros de los que podemos confiar, son los tesoros de los extremos, ya que no especifican si tienen o no tienen el tesoro dentro de ellos a diferencia de lo que indica el tesoro de en medio. Por lo que es una posibilidad del 50/50, o el tesoro está en el lado izquierdo o derecho... o puede estar en ambos tesoros.
