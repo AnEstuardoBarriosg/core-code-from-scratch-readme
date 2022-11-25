@@ -1,0 +1,1 @@
+# Week challenges (Thursday) 📋✔️🎊✨
